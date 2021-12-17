@@ -4,9 +4,9 @@
 ### [Prerequisites]
 * __Create virtual environment__  
 
-          virtualenv WGAN_rnaseq -p python3
+          virtualenv WGAN_toupathy -p python3
           
-          source WGAN_rnaseq/bin/activate  
+          source WGAN_toupathy/bin/activate  
 
 * __Install packages__  
      * Only GPU
