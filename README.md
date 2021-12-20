@@ -9,7 +9,6 @@
           source WGAN_toupathy/bin/activate  
 
 * __Install packages__  
-     * Only GPU
     
                pip install -r requirements.txt
 
