@@ -10,7 +10,7 @@
 
 * __Install packages__  
     
-               pip install -r requirements.txt
+          pip install -r requirements.txt
 
 ### [Usage]
 __Train and Analysis using WGAN_for_toupathy.ipynb__
